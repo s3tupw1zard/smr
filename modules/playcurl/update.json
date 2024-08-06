@@ -1,0 +1,14 @@
+{
+  "id": "playcurl",
+  "timestamp": 1722969929.491788,
+  "versions": [
+    {
+      "timestamp": 1722969929.491788,
+      "version": "v1",
+      "versionCode": 1,
+      "zipUrl": "https://s3tupw1zard.github.io/smr/modules/playcurl/v1_1.zip",
+      "changelog": "https://s3tupw1zard.github.io/smr/modules/playcurl/v1_1.md",
+      "size": 4524198
+    }
+  ]
+}

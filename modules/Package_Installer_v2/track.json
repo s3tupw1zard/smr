@@ -3,5 +3,7 @@
   "enable": true,
   "update_to": "https://s3tupw1zard.github.io/smr/modules/Package_Installer_v2/packageinstallerv2.json",
   "license": "Apache License 2.0",
-  "added": 1722966674.644414
+  "added": 1722966674.644414,
+  "last_update": 1721569666.0,
+  "versions": 1
 }

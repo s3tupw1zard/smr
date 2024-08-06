@@ -33,3 +33,23 @@
 [2024/08/06 18:06:19] Sync INFO: update: [quickswitch] -> update to v4.0.3 (4030)
 [2024/08/06 18:22:02] LocalTracks INFO: get_tracks: modules_folder = /srv/android/smr/modules
 [2024/08/06 18:22:02] LocalTracks INFO: get_tracks: size = 8
+[2024/08/06 18:45:27] LocalTracks INFO: get_tracks: modules_folder = /srv/android/smr/modules
+[2024/08/06 18:45:27] LocalTracks INFO: get_tracks: size = 8
+[2024/08/06 18:45:27] Pull DEBUG: from_track: [AFWall-Boot-AntiLeak] -> type: GIT
+[2024/08/06 18:45:27] Pull DEBUG: from_track: [Package_Installer_v2] -> type: ONLINE_JSON
+[2024/08/06 18:45:27] Pull DEBUG: from_track: [PlayIntegrityFix] -> type: ONLINE_JSON
+[2024/08/06 18:45:27] Pull DEBUG: from_track: [QuickSwitch] -> type: GIT
+[2024/08/06 18:45:27] Pull DEBUG: from_track: [Viper4Android-RE] -> type: ONLINE_JSON
+[2024/08/06 18:45:27] Pull DEBUG: from_track: [Zygisk-Assistant] -> type: ONLINE_JSON
+[2024/08/06 18:45:27] Pull DEBUG: from_track: [nano-ndk] -> type: ONLINE_JSON
+[2024/08/06 18:45:27] Pull DEBUG: from_track: [playcurl] -> type: ONLINE_JSON
+[2024/08/06 18:45:27] Pull INFO: _check_version_code: [Zygisk-Assistant] -> already the latest version
+[2024/08/06 18:45:28] Pull INFO: _check_version_code: [PlayIntegrityFix] -> already the latest version
+[2024/08/06 18:45:28] Pull INFO: _check_version_code: [nano-ndk] -> already the latest version
+[2024/08/06 18:45:28] Pull INFO: _check_version_code: [AFWall-Boot-AntiLeak] -> already the latest version
+[2024/08/06 18:45:28] Sync INFO: update: [ViPER4Android-RE] -> update to v0.6.1 (20231210)
+[2024/08/06 18:45:28] Sync INFO: update: [newui_package_installer] -> update to 2.0 (2)
+[2024/08/06 18:45:29] Sync INFO: update: [playcurl] -> update to v1 (1)
+[2024/08/06 18:45:35] Pull INFO: _check_version_code: [QuickSwitch] -> already the latest version
+[2024/08/06 18:45:35] LocalTracks INFO: get_tracks: modules_folder = /srv/android/smr/modules
+[2024/08/06 18:45:35] LocalTracks INFO: get_tracks: size = 8

@@ -1,0 +1,14 @@
+{
+  "id": "Package_Installer_v2",
+  "timestamp": 1721569666.0,
+  "versions": [
+    {
+      "timestamp": 1721569666.0,
+      "version": "2.0",
+      "versionCode": 2,
+      "zipUrl": "https://s3tupw1zard.github.io/smr/modules/Package_Installer_v2/2.0_2.zip",
+      "changelog": "https://s3tupw1zard.github.io/smr/modules/Package_Installer_v2/2.0_2.md",
+      "size": 3947956
+    }
+  ]
+}
