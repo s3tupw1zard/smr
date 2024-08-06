@@ -1,0 +1,33 @@
+[2024/08/06 16:58:23] GithubTracks INFO: get_tracks: user_name = Magisk-Modules-Repo
+[2024/08/06 16:58:24] GithubTracks DEBUG: _get_from_repo: repo_name = nano-ndk
+[2024/08/06 16:58:26] GithubTracks INFO: get_tracks: size = 1
+[2024/08/06 17:16:21] GithubTracks INFO: get_tracks: user_name = Magisk-Modules-Alt-Repo
+[2024/08/06 17:16:22] GithubTracks DEBUG: _get_from_repo: repo_name = AFWall-Boot-AntiLeak
+[2024/08/06 17:16:25] GithubTracks INFO: get_tracks: size = 1
+[2024/08/06 17:17:43] GithubTracks INFO: get_tracks: user_name = skittles9823
+[2024/08/06 17:17:44] GithubTracks DEBUG: _get_from_repo: repo_name = QuickSwitch
+[2024/08/06 17:17:47] GithubTracks INFO: get_tracks: size = 1
+[2024/08/06 17:32:05] LocalTracks INFO: get_tracks: modules_folder = /srv/android/smr/modules
+[2024/08/06 17:32:05] LocalTracks INFO: get_tracks: size = 3
+[2024/08/06 18:04:11] GithubTracks INFO: get_tracks: user_name = snake-4
+[2024/08/06 18:04:11] GithubTracks DEBUG: _get_from_repo: repo_name = Zygisk-Assistant
+[2024/08/06 18:04:12] GithubTracks ERROR: _get_from_repo: [Zygisk-Assistant] -> MagiskModuleError(Zygisk-Assistant is not a target magisk module repository)
+[2024/08/06 18:04:12] GithubTracks INFO: get_tracks: size = 0
+[2024/08/06 18:06:11] LocalTracks INFO: get_tracks: modules_folder = /srv/android/smr/modules
+[2024/08/06 18:06:11] LocalTracks INFO: get_tracks: size = 8
+[2024/08/06 18:06:11] Pull DEBUG: from_track: [AFWall-Boot-AntiLeak] -> type: GIT
+[2024/08/06 18:06:11] Pull DEBUG: from_track: [Package_Installer_v2] -> type: ONLINE_JSON
+[2024/08/06 18:06:11] Pull DEBUG: from_track: [PlayIntegrityFix] -> type: ONLINE_JSON
+[2024/08/06 18:06:11] Pull DEBUG: from_track: [QuickSwitch] -> type: GIT
+[2024/08/06 18:06:11] Pull DEBUG: from_track: [Viper4Android-RE] -> type: ONLINE_JSON
+[2024/08/06 18:06:11] Pull DEBUG: from_track: [Zygisk-Assistant] -> type: ONLINE_JSON
+[2024/08/06 18:06:11] Pull DEBUG: from_track: [nano-ndk] -> type: ONLINE_JSON
+[2024/08/06 18:06:11] Pull DEBUG: from_track: [playcurl] -> type: ONLINE_JSON
+[2024/08/06 18:06:12] Pull ERROR: from_json: [Viper4Android-RE] -> HTTPError(404 not found)
+[2024/08/06 18:06:12] Pull ERROR: from_json: [Package_Installer_v2] -> HTTPError(404 not found)
+[2024/08/06 18:06:12] Pull ERROR: from_json: [playcurl] -> HTTPError(404 not found)
+[2024/08/06 18:06:12] Sync INFO: update: [AFWall-Boot-AntiLeak] -> update to v1.3 (4)
+[2024/08/06 18:06:12] Sync INFO: update: [playintegrityfix] -> update to v15.9.3 (15903)
+[2024/08/06 18:06:12] Sync INFO: update: [zygisk-assistant] -> update to v2.1.2 (8878c9f-release) (212)
+[2024/08/06 18:06:13] Sync INFO: update: [nano-ndk] -> update to 8.1 (8100)
+[2024/08/06 18:06:19] Sync INFO: update: [quickswitch] -> update to v4.0.3 (4030)

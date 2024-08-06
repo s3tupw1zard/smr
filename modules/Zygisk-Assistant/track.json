@@ -1,0 +1,9 @@
+{
+  "id": "Zygisk-Assistant",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/snake-4/Zygisk-Assistant/main/update_metadata/update.json",
+  "license": "MIT",
+  "added": 1722967531.890123,
+  "last_update": 1722654622.0,
+  "versions": 1
+}

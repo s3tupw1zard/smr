@@ -1,0 +1,13 @@
+{
+  "id": "Zygisk-Assistant",
+  "timestamp": 1722654622.0,
+  "versions": [
+    {
+      "timestamp": 1722654622.0,
+      "version": "v2.1.2 (8878c9f-release)",
+      "versionCode": 212,
+      "zipUrl": "https://s3tupw1zard.github.io/smr/modules/Zygisk-Assistant/v2.1.2_8878c9f-release_212.zip",
+      "changelog": "https://s3tupw1zard.github.io/smr/modules/Zygisk-Assistant/v2.1.2_8878c9f-release_212.md"
+    }
+  ]
+}

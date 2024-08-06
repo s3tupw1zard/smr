@@ -1,0 +1,7 @@
+{
+  "name": "s3tupw1zards Magisk Repo",
+  "base_url": "https://s3tupw1zard.github.io/smr/",
+  "max_num": 3,
+  "enable_log": true,
+  "log_dir": "log"
+}

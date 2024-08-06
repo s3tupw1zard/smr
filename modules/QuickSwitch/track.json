@@ -1,0 +1,11 @@
+{
+  "id": "QuickSwitch",
+  "enable": true,
+  "update_to": "https://github.com/skittles9823/QuickSwitch.git",
+  "source": "https://github.com/skittles9823/QuickSwitch.git",
+  "support": "https://github.com/skittles9823/QuickSwitch/issues",
+  "donate": "https://github.com/sponsors/skittles9823",
+  "added": 1722964667.130099,
+  "last_update": 1720377800.0,
+  "versions": 1
+}

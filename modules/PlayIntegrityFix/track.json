@@ -1,0 +1,9 @@
+{
+  "id": "PlayIntegrityFix",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/x1337cn/AutoPIF-Next/main/Updater/update.json",
+  "license": "GPL-3.0",
+  "added": 1722967305.924182,
+  "last_update": 1722967572.508609,
+  "versions": 1
+}

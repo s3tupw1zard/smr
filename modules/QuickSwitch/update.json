@@ -1,0 +1,13 @@
+{
+  "id": "QuickSwitch",
+  "timestamp": 1720377800.0,
+  "versions": [
+    {
+      "timestamp": 1720377800.0,
+      "version": "v4.0.3",
+      "versionCode": 4030,
+      "zipUrl": "https://s3tupw1zard.github.io/smr/modules/QuickSwitch/v4.0.3_4030.zip",
+      "changelog": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "nano-ndk",
+  "enable": true,
+  "update_to": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/update.json",
+  "source": "https://github.com/Magisk-Modules-Repo/nano-ndk.git",
+  "donate": "https://github.com/sponsors/osm0sis",
+  "added": 1722963506.993866,
+  "last_update": 1722967572.0,
+  "versions": 1
+}

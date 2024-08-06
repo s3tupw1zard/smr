@@ -1,0 +1,13 @@
+{
+  "id": "PlayIntegrityFix",
+  "timestamp": 1722967572.508609,
+  "versions": [
+    {
+      "timestamp": 1722967572.508609,
+      "version": "v15.9.3",
+      "versionCode": 15903,
+      "zipUrl": "https://s3tupw1zard.github.io/smr/modules/PlayIntegrityFix/v15.9.3_15903.zip",
+      "changelog": "https://s3tupw1zard.github.io/smr/modules/PlayIntegrityFix/v15.9.3_15903.md"
+    }
+  ]
+}
