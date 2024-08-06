@@ -31,3 +31,5 @@
 [2024/08/06 18:06:12] Sync INFO: update: [zygisk-assistant] -> update to v2.1.2 (8878c9f-release) (212)
 [2024/08/06 18:06:13] Sync INFO: update: [nano-ndk] -> update to 8.1 (8100)
 [2024/08/06 18:06:19] Sync INFO: update: [quickswitch] -> update to v4.0.3 (4030)
+[2024/08/06 18:22:02] LocalTracks INFO: get_tracks: modules_folder = /srv/android/smr/modules
+[2024/08/06 18:22:02] LocalTracks INFO: get_tracks: size = 8
