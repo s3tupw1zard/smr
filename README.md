@@ -1,7 +1,8 @@
 # Googlers Magisk Repo
 - This repository stores modules for [MMRL](https://github.com/DerGoogler/MMRL) and [MRepo](https://github.com/MRepoApp/MRepo.git).
 
-I'm using this privately. Please be aware that Magisk modules may not always be up to date. Especially if I needed to add a module by hand using a link to a zip file and if there is no updater.json or similar present from the developer.
+I'm using this privately. Please be aware that Magisk modules may not always be up to date.
+This is especially if I needed to add a module by hand using a link to a zip file and if there is no updater.json or similar present from the developer.
 
 ## Add to MMRL or MRepo 
 
