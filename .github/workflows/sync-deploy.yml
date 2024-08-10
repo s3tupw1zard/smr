@@ -100,7 +100,7 @@ jobs:
       - name: Index, Sitemap and Push
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
-          python util/cli.py sitemap --base-url "https://mmrl.dergoogler.com/?module="
+          python util/cli.py sitemap --base-url "https://s3tupw1zard.github.io/smr/?module="
           python util/cli.py index --push
 
       - name: Upload logs
@@ -108,3 +108,22 @@ jobs:
         with:
           name: logs
           path: log/*.log
+
+  deploy:
+      environment:
+        name: github-pages
+        url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload entire repository
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
